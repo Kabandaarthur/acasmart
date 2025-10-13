@@ -1,0 +1,4065 @@
+2025-09-07T02:26:01+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 11
+            [subject_id] => 52
+            [exam_type] => activity
+            [category] => A5
+            [topic] => dsfgh
+            [max_score] => 3
+            [students] => Array
+                (
+                    [51] => 3
+                    [52] => 3
+                    [65] => 3
+                    [731] => 1.5
+                )
+
+            [status] => Array
+                (
+                    [51] => present
+                    [52] => present
+                    [65] => present
+                    [731] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 9
+            [role] => teacher
+            [school_id] => 3
+        )
+
+)
+
+
+2025-09-07T02:28:10+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 11
+            [subject_id] => 52
+            [exam_type] => activity
+            [category] => A5
+            [topic] => embozi
+            [max_score] => 3
+            [students] => Array
+                (
+                    [51] => 1.8
+                    [52] => 2.1
+                    [65] => 3
+                    [731] => 1.5
+                )
+
+            [status] => Array
+                (
+                    [51] => present
+                    [52] => present
+                    [65] => present
+                    [731] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 9
+            [role] => teacher
+            [school_id] => 3
+        )
+
+)
+
+
+2025-09-07T02:28:10+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 11
+            [subject_id] => 52
+            [exam_type] => activity
+            [category] => A5
+            [topic] => embozi
+            [max_score] => 3
+            [students] => Array
+                (
+                    [51] => 1.8
+                    [52] => 2.1
+                    [65] => 3
+                    [731] => 1.5
+                )
+
+            [status] => Array
+                (
+                    [51] => present
+                    [52] => present
+                    [65] => present
+                    [731] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 9
+            [role] => teacher
+            [school_id] => 3
+        )
+
+)
+
+
+2025-09-07T02:28:11+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 11
+            [subject_id] => 52
+            [exam_type] => activity
+            [category] => A5
+            [topic] => embozi
+            [max_score] => 3
+            [students] => Array
+                (
+                    [51] => 1.8
+                    [52] => 2.1
+                    [65] => 3
+                    [731] => 1.5
+                )
+
+            [status] => Array
+                (
+                    [51] => present
+                    [52] => present
+                    [65] => present
+                    [731] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 9
+            [role] => teacher
+            [school_id] => 3
+        )
+
+)
+
+
+2025-09-07T02:32:45+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 11
+            [subject_id] => 52
+            [exam_type] => activity
+            [category] => A5
+            [topic] => embozi
+            [max_score] => 3
+            [students] => Array
+                (
+                    [51] => 0.9
+                    [52] => 1.5
+                    [65] => 0.6
+                    [731] => 2.1
+                )
+
+            [status] => Array
+                (
+                    [51] => present
+                    [52] => present
+                    [65] => present
+                    [731] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 9
+            [role] => teacher
+            [school_id] => 3
+        )
+
+)
+
+
+2025-09-07T02:45:18+00:00
+Array
+(
+    [rawInput] => {"studentId":"51","newScore":1,"classId":"11","subjectId":"52","examType":"activity","category":"A5"}
+    [post] => Array
+        (
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 9
+            [role] => teacher
+            [school_id] => 3
+        )
+
+)
+
+
+2025-09-07T02:46:37+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 11
+            [subject_id] => 52
+            [exam_type] => activity
+            [category] => A1
+            [topic] => test
+            [max_score] => 3
+            [students] => Array
+                (
+                    [51] => 2.1
+                    [52] => 1.5
+                    [65] => 1.2
+                    [731] => 2.7
+                )
+
+            [status] => Array
+                (
+                    [51] => present
+                    [52] => present
+                    [65] => present
+                    [731] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 9
+            [role] => teacher
+            [school_id] => 3
+        )
+
+)
+
+
+2025-09-07T02:47:37+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 11
+            [subject_id] => 52
+            [exam_type] => activity
+            [category] => A1
+            [topic] => test
+            [max_score] => 3
+            [students] => Array
+                (
+                    [51] => 1
+                    [52] => 2.9
+                    [65] => 2
+                )
+
+            [status] => Array
+                (
+                    [51] => present
+                    [52] => present
+                    [65] => present
+                    [731] => absent
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 9
+            [role] => teacher
+            [school_id] => 3
+        )
+
+)
+
+
+2025-09-07T02:48:17+00:00
+Array
+(
+    [rawInput] => {"studentId":"731","newScore":2,"classId":"11","subjectId":"52","examType":"activity","category":"A1"}
+    [post] => Array
+        (
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 9
+            [role] => teacher
+            [school_id] => 3
+        )
+
+)
+
+
+2025-09-07T02:52:39+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 11
+            [subject_id] => 52
+            [exam_type] => activity
+            [category] => A1
+            [topic] => test
+            [max_score] => 3
+            [students] => Array
+                (
+                    [51] => 1
+                    [52] => 1.5
+                    [65] => 2.4
+                )
+
+            [status] => Array
+                (
+                    [51] => present
+                    [52] => present
+                    [65] => present
+                    [731] => absent
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 9
+            [role] => teacher
+            [school_id] => 3
+        )
+
+)
+
+
+2025-09-07T02:53:08+00:00
+Array
+(
+    [rawInput] => {"studentId":"731","newScore":2,"classId":"11","subjectId":"52","examType":"activity","category":"A1"}
+    [post] => Array
+        (
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 9
+            [role] => teacher
+            [school_id] => 3
+        )
+
+)
+
+
+2025-09-07T03:14:11+00:00
+Array
+(
+    [rawInput] => {"studentId":"65","newScore":2.7,"classId":"11","subjectId":"52","examType":"activity","category":"A5"}
+    [post] => Array
+        (
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 9
+            [role] => teacher
+            [school_id] => 3
+        )
+
+)
+
+
+2025-09-07T09:31:51+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 151
+            [exam_type] => activity
+            [category] => A1
+            [topic] => Classification
+            [max_score] => 3
+            [students] => Array
+                (
+                    [774] => 2.4
+                    [775] => 1.4
+                )
+
+            [status] => Array
+                (
+                    [774] => present
+                    [775] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-07T09:33:12+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 151
+            [exam_type] => activity
+            [category] => A2
+            [topic] => Kingdoms of living animals
+            [max_score] => 3
+            [students] => Array
+                (
+                    [774] => 1.4
+                    [775] => 2
+                )
+
+            [status] => Array
+                (
+                    [774] => present
+                    [775] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-07T09:34:31+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 152
+            [exam_type] => activity
+            [category] => A1
+            [topic] => Christian Rituals & Celebrations
+            [max_score] => 3
+            [students] => Array
+                (
+                    [774] => 2.7
+                    [775] => 1
+                )
+
+            [status] => Array
+                (
+                    [774] => present
+                    [775] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-07T09:35:17+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 153
+            [exam_type] => activity
+            [category] => A1
+            [topic] => States and changes of matter
+            [max_score] => 3
+            [students] => Array
+                (
+                    [774] => 1.5
+                    [775] => 2
+                )
+
+            [status] => Array
+                (
+                    [774] => present
+                    [775] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-07T09:35:51+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 153
+            [exam_type] => activity
+            [category] => A2
+            [topic] => Using Materials
+            [max_score] => 3
+            [students] => Array
+                (
+                    [774] => 2.1
+                    [775] => 2
+                )
+
+            [status] => Array
+                (
+                    [774] => present
+                    [775] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-07T09:36:35+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 154
+            [exam_type] => activity
+            [category] => A1
+            [topic] => At the market
+            [max_score] => 3
+            [students] => Array
+                (
+                    [774] => 1.5
+                    [775] => 3
+                )
+
+            [status] => Array
+                (
+                    [774] => present
+                    [775] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-07T09:37:17+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 154
+            [exam_type] => activity
+            [category] => A2
+            [topic] => Children at work
+            [max_score] => 3
+            [students] => Array
+                (
+                    [774] => 1.5
+                    [775] => 1
+                )
+
+            [status] => Array
+                (
+                    [774] => present
+                    [775] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-07T09:38:20+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 154
+            [exam_type] => activity
+            [category] => A3
+            [topic] => Food
+            [max_score] => 3
+            [students] => Array
+                (
+                    [774] => 1.5
+                    [775] => 3
+                )
+
+            [status] => Array
+                (
+                    [774] => present
+                    [775] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-07T09:39:04+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 155
+            [exam_type] => activity
+            [category] => A1
+            [topic] => Business in Uganda
+            [max_score] => 3
+            [students] => Array
+                (
+                    [774] => 2.1
+                    [775] => 2
+                )
+
+            [status] => Array
+                (
+                    [774] => present
+                    [775] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-07T09:40:15+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 155
+            [exam_type] => activity
+            [category] => A2
+            [topic] => Business Ideas and opportunities
+            [max_score] => 3
+            [students] => Array
+                (
+                    [774] => 2.1
+                    [775] => 1
+                )
+
+            [status] => Array
+                (
+                    [774] => present
+                    [775] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-07T09:41:09+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 156
+            [exam_type] => activity
+            [category] => A1
+            [topic] => ways of studying geography
+            [max_score] => 3
+            [students] => Array
+                (
+                    [774] => 1.2
+                    [775] => 1
+                )
+
+            [status] => Array
+                (
+                    [774] => present
+                    [775] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-07T09:41:42+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 156
+            [exam_type] => activity
+            [category] => A2
+            [topic] => Weather and climate
+            [max_score] => 3
+            [students] => Array
+                (
+                    [774] => 1.4
+                    [775] => 2
+                )
+
+            [status] => Array
+                (
+                    [774] => present
+                    [775] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-07T09:42:30+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 150
+            [exam_type] => activity
+            [category] => A1
+            [topic] => Migration and Settlment 
+            [max_score] => 3
+            [students] => Array
+                (
+                    [774] => 2.1
+                    [775] => 3
+                )
+
+            [status] => Array
+                (
+                    [774] => present
+                    [775] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-07T09:44:10+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 150
+            [exam_type] => activity
+            [category] => A2
+            [topic] => Culture and ethnic groups in E.A
+            [max_score] => 3
+            [students] => Array
+                (
+                    [774] => 2.4
+                    [775] => 1.8
+                )
+
+            [status] => Array
+                (
+                    [774] => present
+                    [775] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-07T09:45:33+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 150
+            [exam_type] => activity
+            [category] => A3
+            [topic] => State formation in E.A
+            [max_score] => 3
+            [students] => Array
+                (
+                    [774] => 1.5
+                    [775] => 2
+                )
+
+            [status] => Array
+                (
+                    [774] => present
+                    [775] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-07T09:46:30+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 157
+            [exam_type] => activity
+            [category] => A1
+            [topic] => JAMI
+            [max_score] => 3
+            [students] => Array
+                (
+                    [774] => 2.4
+                    [775] => 2
+                )
+
+            [status] => Array
+                (
+                    [774] => present
+                    [775] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-07T09:47:24+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 157
+            [exam_type] => activity
+            [category] => A2
+            [topic] => HESABU
+            [max_score] => 3
+            [students] => Array
+                (
+                    [774] => 1.5
+                    [775] => 2
+                )
+
+            [status] => Array
+                (
+                    [774] => present
+                    [775] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-07T09:48:00+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 157
+            [exam_type] => activity
+            [category] => A3
+            [topic] => WANYAMA WA NDEGE
+            [max_score] => 3
+            [students] => Array
+                (
+                    [774] => 1.2
+                    [775] => 2
+                )
+
+            [status] => Array
+                (
+                    [774] => present
+                    [775] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-07T09:48:48+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 158
+            [exam_type] => activity
+            [category] => A1
+            [topic] => Geometric Construction skills
+            [max_score] => 3
+            [students] => Array
+                (
+                    [774] => 1.8
+                    [775] => 2
+                )
+
+            [status] => Array
+                (
+                    [774] => present
+                    [775] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-07T09:49:40+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 158
+            [exam_type] => activity
+            [category] => A2
+            [topic] => Angle properties of linear shapes
+            [max_score] => 3
+            [students] => Array
+                (
+                    [774] => 2.1
+                    [775] => 1
+                )
+
+            [status] => Array
+                (
+                    [774] => present
+                    [775] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-07T09:50:42+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 159
+            [exam_type] => activity
+            [category] => A1
+            [topic] => States of matter
+            [max_score] => 3
+            [students] => Array
+                (
+                    [774] => 1.8
+                    [775] => 1
+                )
+
+            [status] => Array
+                (
+                    [774] => present
+                    [775] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-07T09:51:16+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 159
+            [exam_type] => activity
+            [category] => A2
+            [topic] => Effects of force
+            [max_score] => 3
+            [students] => Array
+                (
+                    [774] => 2.4
+                    [775] => 2
+                )
+
+            [status] => Array
+                (
+                    [774] => present
+                    [775] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-07T09:51:17+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 159
+            [exam_type] => activity
+            [category] => A2
+            [topic] => Effects of force
+            [max_score] => 3
+            [students] => Array
+                (
+                    [774] => 2.4
+                    [775] => 2
+                )
+
+            [status] => Array
+                (
+                    [774] => present
+                    [775] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-07T09:51:58+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 159
+            [exam_type] => activity
+            [category] => A3
+            [topic] => Temperature measurements
+            [max_score] => 3
+            [students] => Array
+                (
+                    [774] => 3
+                    [775] => 1
+                )
+
+            [status] => Array
+                (
+                    [774] => present
+                    [775] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-08T18:28:09+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 150
+            [exam_type] => exam
+            [category] => E.O.T
+            [topic] => 
+            [max_score] => 80
+            [students] => Array
+                (
+                    [774] => 62
+                    [775] => 71
+                )
+
+            [status] => Array
+                (
+                    [774] => present
+                    [775] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-09T02:05:59+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 150
+            [exam_type] => activity
+            [category] => A4
+            [topic] => Luo Migrations
+            [max_score] => 3
+            [students] => Array
+                (
+                    [774] => 3
+                    [775] => 2.4
+                )
+
+            [status] => Array
+                (
+                    [774] => present
+                    [775] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-09T02:19:42+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 162
+            [exam_type] => activity
+            [category] => A1
+            [topic] => Crop Production
+            [max_score] => 3
+            [students] => Array
+                (
+                    [774] => 2.1
+                    [775] => 1.9
+                )
+
+            [status] => Array
+                (
+                    [774] => present
+                    [775] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 65
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-09T02:20:27+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 161
+            [exam_type] => activity
+            [category] => A1
+            [topic] => Drawing
+            [max_score] => 3
+            [students] => Array
+                (
+                    [774] => 2.1
+                    [775] => 2
+                )
+
+            [status] => Array
+                (
+                    [774] => present
+                    [775] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 65
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-09T02:21:07+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 162
+            [exam_type] => activity
+            [category] => A2
+            [topic] => Animal husbandry
+            [max_score] => 3
+            [students] => Array
+                (
+                    [774] => 2.1
+                    [775] => 1
+                )
+
+            [status] => Array
+                (
+                    [774] => present
+                    [775] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 65
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-09T02:21:39+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 161
+            [exam_type] => activity
+            [category] => A2
+            [topic] => Wooding
+            [max_score] => 3
+            [students] => Array
+                (
+                    [774] => 3
+                    [775] => 2
+                )
+
+            [status] => Array
+                (
+                    [774] => present
+                    [775] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 65
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-09T02:24:56+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 160
+            [exam_type] => activity
+            [category] => A1
+            [topic] => Embozi ensonge
+            [max_score] => 3
+            [students] => Array
+                (
+                    [774] => 2.1
+                    [775] => 3
+                )
+
+            [status] => Array
+                (
+                    [774] => present
+                    [775] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-09T02:25:43+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 160
+            [exam_type] => activity
+            [category] => A2
+            [topic] => Obuwakatirwa obuyunzi
+            [max_score] => 3
+            [students] => Array
+                (
+                    [774] => 2.1
+                    [775] => 3
+                )
+
+            [status] => Array
+                (
+                    [774] => present
+                    [775] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-09T02:26:16+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 163
+            [exam_type] => activity
+            [category] => A1
+            [topic] => Booting process
+            [max_score] => 3
+            [students] => Array
+                (
+                    [774] => 2.1
+                    [775] => 2
+                )
+
+            [status] => Array
+                (
+                    [774] => present
+                    [775] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-09T02:26:57+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 163
+            [exam_type] => activity
+            [category] => A2
+            [topic] => Computer Laboratory
+            [max_score] => 3
+            [students] => Array
+                (
+                    [774] => 3
+                    [775] => 2
+                )
+
+            [status] => Array
+                (
+                    [774] => present
+                    [775] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-10T10:52:18+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 151
+            [exam_type] => activity
+            [category] => A4
+            [topic] => Living Organisms
+            [max_score] => 3
+            [students] => Array
+                (
+                    [774] => 2.4
+                    [775] => 3
+                )
+
+            [status] => Array
+                (
+                    [774] => present
+                    [775] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-10T10:53:07+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 154
+            [exam_type] => activity
+            [category] => A4
+            [topic] => Test for activity four
+            [max_score] => 3
+            [students] => Array
+                (
+                    [774] => 2
+                    [775] => 1
+                )
+
+            [status] => Array
+                (
+                    [774] => present
+                    [775] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-12T02:02:49+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 150
+            [exam_type] => activity
+            [category] => A1
+            [topic] => Migration and Settlment in E.A
+            [max_score] => 3
+            [students] => Array
+                (
+                    [778] => 2.1
+                    [779] => 2
+                    [780] => 3
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-12T02:03:27+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 150
+            [exam_type] => activity
+            [category] => A2
+            [topic] => Culture and ethnic groups in E.A
+            [max_score] => 3
+            [students] => Array
+                (
+                    [778] => 3
+                    [779] => 1.5
+                    [780] => 2.1
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-12T02:04:12+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 150
+            [exam_type] => activity
+            [category] => A3
+            [topic] => State formation in E.A
+            [max_score] => 3
+            [students] => Array
+                (
+                    [778] => 2.4
+                    [779] => 1.8
+                    [780] => 2
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-12T02:21:27+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 153
+            [exam_type] => activity
+            [category] => A1
+            [topic] => States and changes of matter
+            [max_score] => 3
+            [students] => Array
+                (
+                    [778] => 2.4
+                    [779] => 1.8
+                    [780] => 2
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-12T02:21:57+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 154
+            [exam_type] => activity
+            [category] => A2
+            [topic] => Using Materials
+            [max_score] => 3
+            [students] => Array
+                (
+                    [778] => 2.1
+                    [779] => 2
+                    [780] => 3
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-12T02:22:44+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 155
+            [exam_type] => activity
+            [category] => A1
+            [topic] => Business in Uganda
+            [max_score] => 3
+            [students] => Array
+                (
+                    [778] => 1
+                    [779] => 3
+                    [780] => 2.9
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-12T02:24:26+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 156
+            [exam_type] => activity
+            [category] => A1
+            [topic] => ways of studying geography
+            [max_score] => 3
+            [students] => Array
+                (
+                    [778] => 1.8
+                    [779] => 1.8
+                    [780] => 2
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-12T02:25:03+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 156
+            [exam_type] => activity
+            [category] => A2
+            [topic] => weather and climate
+            [max_score] => 3
+            [students] => Array
+                (
+                    [778] => 3
+                    [779] => 2.8
+                    [780] => 1
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-12T02:25:50+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 157
+            [exam_type] => activity
+            [category] => A1
+            [topic] => JAMI
+            [max_score] => 3
+            [students] => Array
+                (
+                    [778] => 2.7
+                    [779] => 2.8
+                    [780] => 1.8
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-12T02:26:22+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 157
+            [exam_type] => activity
+            [category] => A2
+            [topic] => HESAB
+            [max_score] => 3
+            [students] => Array
+                (
+                    [778] => 2.1
+                    [779] => 3
+                    [780] => 3
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-12T02:27:08+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 158
+            [exam_type] => activity
+            [category] => A1
+            [topic] => geometric construction skills
+            [max_score] => 3
+            [students] => Array
+                (
+                    [778] => 1.6
+                    [779] => 1.9
+                    [780] => 2
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-12T02:27:59+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 158
+            [exam_type] => activity
+            [category] => A2
+            [topic] => angle properties and shapes to solve problems
+            [max_score] => 3
+            [students] => Array
+                (
+                    [778] => 2
+                    [779] => 3
+                    [780] => 2.6
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-12T02:28:43+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 158
+            [exam_type] => activity
+            [category] => A3
+            [topic] => the learner uses compass skills
+            [max_score] => 3
+            [students] => Array
+                (
+                    [778] => 1.3
+                    [779] => 3
+                    [780] => 2
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-12T02:29:41+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 159
+            [exam_type] => activity
+            [category] => A1
+            [topic] => States of matter
+            [max_score] => 3
+            [students] => Array
+                (
+                    [778] => 2.1
+                    [779] => 3
+                    [780] => 2
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-12T02:30:14+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 159
+            [exam_type] => activity
+            [category] => A2
+            [topic] => Effects of force
+            [max_score] => 3
+            [students] => Array
+                (
+                    [778] => 2.1
+                    [779] => 3
+                    [780] => 2
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-12T02:30:57+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 160
+            [exam_type] => activity
+            [category] => A1
+            [topic] => enyingo eziyunga
+            [max_score] => 3
+            [students] => Array
+                (
+                    [778] => 1
+                    [779] => 2
+                    [780] => 3
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-12T02:31:41+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 160
+            [exam_type] => activity
+            [category] => A2
+            [topic] => amanya ga ssabasajja
+            [max_score] => 3
+            [students] => Array
+                (
+                    [778] => 2.1
+                    [779] => 2
+                    [780] => 3
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-12T02:32:28+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 161
+            [exam_type] => activity
+            [category] => A1
+            [topic] => human living
+            [max_score] => 3
+            [students] => Array
+                (
+                    [778] => 3
+                    [779] => 3
+                    [780] => 3
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-12T02:33:02+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 161
+            [exam_type] => activity
+            [category] => A2
+            [topic] => daily changes
+            [max_score] => 3
+            [students] => Array
+                (
+                    [778] => 2.2
+                    [779] => 3
+                    [780] => 3
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-12T02:33:41+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 162
+            [exam_type] => activity
+            [category] => A1
+            [topic] => crop production
+            [max_score] => 3
+            [students] => Array
+                (
+                    [778] => 2.3
+                    [779] => 1.6
+                    [780] => 2
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-12T02:34:14+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 162
+            [exam_type] => activity
+            [category] => A2
+            [topic] => Animal husbandry
+            [max_score] => 3
+            [students] => Array
+                (
+                    [778] => 3
+                    [779] => 2.1
+                    [780] => 2
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-12T02:34:47+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 163
+            [exam_type] => activity
+            [category] => A1
+            [topic] => Computer laboratory
+            [max_score] => 3
+            [students] => Array
+                (
+                    [778] => 2.6
+                    [779] => 2
+                    [780] => 3
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-12T02:35:25+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 163
+            [exam_type] => activity
+            [category] => A2
+            [topic] => Booting process in computer
+            [max_score] => 3
+            [students] => Array
+                (
+                    [778] => 3
+                    [779] => 1.7
+                    [780] => 2
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-12T02:36:05+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 162
+            [exam_type] => activity
+            [category] => A3
+            [topic] => poultry keeping
+            [max_score] => 3
+            [students] => Array
+                (
+                    [778] => 2.1
+                    [779] => 2
+                    [780] => 3
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-12T02:36:51+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 163
+            [exam_type] => activity
+            [category] => A3
+            [topic] => Computer ethics
+            [max_score] => 3
+            [students] => Array
+                (
+                    [778] => 1.6
+                    [779] => 3
+                    [780] => 2
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-12T03:20:54+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 154
+            [exam_type] => activity
+            [category] => A1
+            [topic] => At the market
+            [max_score] => 3
+            [students] => Array
+                (
+                    [778] => 2.3
+                    [779] => 1.6
+                    [780] => 2
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-12T03:21:49+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 153
+            [exam_type] => activity
+            [category] => A2
+            [topic] => Using materials
+            [max_score] => 3
+            [students] => Array
+                (
+                    [778] => 2.3
+                    [779] => 1.6
+                    [780] => 2
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-12T03:28:22+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 150
+            [exam_type] => exam
+            [category] => E.O.T
+            [topic] => 
+            [max_score] => 80
+            [students] => Array
+                (
+                    [778] => 77
+                    [779] => 65
+                    [780] => 56
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-12T03:28:46+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 151
+            [exam_type] => exam
+            [category] => E.O.T
+            [topic] => 
+            [max_score] => 80
+            [students] => Array
+                (
+                    [778] => 40
+                    [779] => 72
+                    [780] => 68
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-12T03:29:22+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 152
+            [exam_type] => exam
+            [category] => E.O.T
+            [topic] => 
+            [max_score] => 80
+            [students] => Array
+                (
+                    [778] => 64
+                    [779] => 40
+                    [780] => 56
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-12T03:29:42+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 153
+            [exam_type] => exam
+            [category] => E.O.T
+            [topic] => 
+            [max_score] => 80
+            [students] => Array
+                (
+                    [778] => 67
+                    [779] => 54
+                    [780] => 78
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-12T03:30:02+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 154
+            [exam_type] => exam
+            [category] => E.O.T
+            [topic] => 
+            [max_score] => 80
+            [students] => Array
+                (
+                    [778] => 58
+                    [779] => 21
+                    [780] => 49
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-12T03:30:29+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 155
+            [exam_type] => exam
+            [category] => E.O.T
+            [topic] => 
+            [max_score] => 80
+            [students] => Array
+                (
+                    [778] => 78
+                    [779] => 54
+                    [780] => 71
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-12T03:30:53+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 156
+            [exam_type] => exam
+            [category] => E.O.T
+            [topic] => 
+            [max_score] => 80
+            [students] => Array
+                (
+                    [778] => 60
+                    [779] => 39
+                    [780] => 69
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-12T03:31:14+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 157
+            [exam_type] => exam
+            [category] => E.O.T
+            [topic] => 
+            [max_score] => 80
+            [students] => Array
+                (
+                    [778] => 66
+                    [779] => 34
+                    [780] => 77
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-12T03:31:36+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 158
+            [exam_type] => exam
+            [category] => E.O.T
+            [topic] => 
+            [max_score] => 80
+            [students] => Array
+                (
+                    [778] => 55
+                    [779] => 34
+                    [780] => 66
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-12T03:31:56+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 159
+            [exam_type] => exam
+            [category] => E.O.T
+            [topic] => 
+            [max_score] => 80
+            [students] => Array
+                (
+                    [778] => 55
+                    [779] => 34
+                    [780] => 23
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-12T03:32:25+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 160
+            [exam_type] => exam
+            [category] => E.O.T
+            [topic] => 
+            [max_score] => 80
+            [students] => Array
+                (
+                    [778] => 58
+                    [779] => 80
+                    [780] => 74
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-12T03:33:00+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 161
+            [exam_type] => exam
+            [category] => E.O.T
+            [topic] => 
+            [max_score] => 80
+            [students] => Array
+                (
+                    [778] => 60
+                    [779] => 71
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => absent
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-12T03:33:32+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 162
+            [exam_type] => exam
+            [category] => E.O.T
+            [topic] => 
+            [max_score] => 80
+            [students] => Array
+                (
+                    [778] => 80
+                    [779] => 80
+                    [780] => 80
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-12T03:34:00+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 163
+            [exam_type] => exam
+            [category] => E.O.T
+            [topic] => 
+            [max_score] => 80
+            [students] => Array
+                (
+                    [778] => 58
+                    [779] => 51
+                    [780] => 62
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-12T03:34:33+00:00
+Array
+(
+    [rawInput] => {"studentId":"780","newScore":44,"classId":"23","subjectId":"161","examType":"exam","category":"E.O.T"}
+    [post] => Array
+        (
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-13T14:34:02+00:00
+Array
+(
+    [rawInput] => {"studentId":"780","newScore":4,"classId":"23","subjectId":"153","examType":"activity","category":"A1"}
+    [post] => Array
+        (
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-13T14:40:50+00:00
+Array
+(
+    [rawInput] => {"studentId":"780","newScore":2,"classId":"23","subjectId":"160","examType":"activity","category":"A2"}
+    [post] => Array
+        (
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-13T14:42:59+00:00
+Array
+(
+    [rawInput] => {"studentId":"778","newScore":2.5,"classId":"23","subjectId":"160","examType":"activity","category":"A1"}
+    [post] => Array
+        (
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-13T14:45:12+00:00
+Array
+(
+    [rawInput] => {"studentId":"778","newScore":2.5,"classId":"23","subjectId":"160","examType":"activity","category":"A1"}
+    [post] => Array
+        (
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-13T14:48:54+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 150
+            [exam_type] => activity
+            [category] => A3
+            [topic] => Bantu Migration from south africa
+            [max_score] => 3
+            [students] => Array
+                (
+                    [778] => 2
+                    [779] => 2.1
+                    [780] => 3
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-16T12:48:52+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 158
+            [exam_type] => activity
+            [category] => A3
+            [topic] => the learner uses compass skills
+            [max_score] => 3
+            [students] => Array
+                (
+                    [778] => 3
+                    [779] => 3
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => absent
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-18T12:46:42+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 166
+            [exam_type] => exam
+            [category] => E.O.T
+            [topic] => 
+            [max_score] => 80
+            [students] => Array
+                (
+                    [778] => 68
+                    [779] => 80
+                    [780] => 46
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-18T12:47:42+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 167
+            [exam_type] => exam
+            [category] => E.O.T
+            [topic] => 
+            [max_score] => 80
+            [students] => Array
+                (
+                    [778] => 80
+                    [779] => 64
+                    [780] => 48
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-18T12:48:11+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 168
+            [exam_type] => exam
+            [category] => E.O.T
+            [topic] => 
+            [max_score] => 80
+            [students] => Array
+                (
+                    [778] => 80
+                    [779] => 68
+                    [780] => 80
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-18T12:48:48+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 169
+            [exam_type] => exam
+            [category] => E.O.T
+            [topic] => 
+            [max_score] => 80
+            [students] => Array
+                (
+                    [778] => 67
+                    [779] => 80
+                    [780] => 78
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-09-18T12:48:49+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 169
+            [exam_type] => exam
+            [category] => E.O.T
+            [topic] => 
+            [max_score] => 80
+            [students] => Array
+                (
+                    [778] => 67
+                    [779] => 80
+                    [780] => 78
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => present
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-10-12T11:44:05+00:00
+Array
+(
+    [rawInput] => 
+    [post] => Array
+        (
+            [class_id] => 23
+            [subject_id] => 162
+            [exam_type] => activity
+            [category] => A1
+            [topic] => 
+            [max_score] => 3
+            [students] => Array
+                (
+                    [778] => 1.8
+                    [779] => 2.1
+                )
+
+            [status] => Array
+                (
+                    [778] => present
+                    [779] => present
+                    [780] => absent
+                )
+
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+
+2025-10-12T11:45:10+00:00
+Array
+(
+    [rawInput] => {"studentId":"780","newScore":null,"classId":"23","subjectId":"162","examType":"activity","category":"A1"}
+    [post] => Array
+        (
+        )
+
+    [files] => Array
+        (
+        )
+
+    [session] => Array
+        (
+            [user_id] => 64
+            [role] => teacher
+            [school_id] => 8
+        )
+
+)
+
+

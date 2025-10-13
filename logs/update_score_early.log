@@ -1,0 +1,3518 @@
+2025-09-07T02:25:15+00:00
+Array
+(
+    [cookies] => Array
+        (
+        )
+
+    [headers] => Array
+        (
+            [User-Agent] => Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.26100.4768
+            [Content-Type] => application/x-www-form-urlencoded
+            [Host] => localhost
+            [Content-Length] => 77
+        )
+
+)
+
+
+2025-09-07T02:26:01+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => ucbsmintdbsmiths87rqc8v0a7
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757210960$o9$g1$t1757211656$j57$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1455
+            [sec-ch-ua-platform] => "Android"
+            [User-Agent] => Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryeHayMxznyGLaN6Fh
+            [sec-ch-ua-mobile] => ?1
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=3
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=ucbsmintdbsmiths87rqc8v0a7; _ga_HJL2CJ5RYR=GS2.1.s1757210960$o9$g1$t1757211656$j57$l0$h0
+        )
+
+)
+
+
+2025-09-07T02:28:10+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => ucbsmintdbsmiths87rqc8v0a7
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757210960$o9$g1$t1757211656$j57$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1460
+            [sec-ch-ua-platform] => "Android"
+            [User-Agent] => Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryEE2CNABEip9Lk1Ag
+            [sec-ch-ua-mobile] => ?1
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=3
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=ucbsmintdbsmiths87rqc8v0a7; _ga_HJL2CJ5RYR=GS2.1.s1757210960$o9$g1$t1757211656$j57$l0$h0
+        )
+
+)
+
+
+2025-09-07T02:28:10+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => ucbsmintdbsmiths87rqc8v0a7
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757210960$o9$g1$t1757211656$j57$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1460
+            [sec-ch-ua-platform] => "Android"
+            [User-Agent] => Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryEDW1NBbuYdZPrBvs
+            [sec-ch-ua-mobile] => ?1
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=3
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=ucbsmintdbsmiths87rqc8v0a7; _ga_HJL2CJ5RYR=GS2.1.s1757210960$o9$g1$t1757211656$j57$l0$h0
+        )
+
+)
+
+
+2025-09-07T02:28:11+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => ucbsmintdbsmiths87rqc8v0a7
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757210960$o9$g1$t1757211656$j57$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1460
+            [sec-ch-ua-platform] => "Android"
+            [User-Agent] => Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryGiifiWZmFH4VULe5
+            [sec-ch-ua-mobile] => ?1
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=3
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=ucbsmintdbsmiths87rqc8v0a7; _ga_HJL2CJ5RYR=GS2.1.s1757210960$o9$g1$t1757211656$j57$l0$h0
+        )
+
+)
+
+
+2025-09-07T02:32:45+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => ucbsmintdbsmiths87rqc8v0a7
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757210960$o9$g1$t1757211656$j57$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1462
+            [sec-ch-ua-platform] => "Android"
+            [User-Agent] => Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundarymsqaIVdsRxciWOYE
+            [sec-ch-ua-mobile] => ?1
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=3
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=ucbsmintdbsmiths87rqc8v0a7; _ga_HJL2CJ5RYR=GS2.1.s1757210960$o9$g1$t1757211656$j57$l0$h0
+        )
+
+)
+
+
+2025-09-07T02:45:18+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => ucbsmintdbsmiths87rqc8v0a7
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757210960$o9$g1$t1757212634$j52$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 101
+            [sec-ch-ua-platform] => "Android"
+            [User-Agent] => Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => application/json
+            [sec-ch-ua-mobile] => ?1
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=3
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=ucbsmintdbsmiths87rqc8v0a7; _ga_HJL2CJ5RYR=GS2.1.s1757210960$o9$g1$t1757212634$j52$l0$h0
+        )
+
+)
+
+
+2025-09-07T02:46:37+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => ucbsmintdbsmiths87rqc8v0a7
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757210960$o9$g1$t1757212634$j52$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1460
+            [sec-ch-ua-platform] => "Android"
+            [User-Agent] => Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryXCpa7GCCLG4vvTDD
+            [sec-ch-ua-mobile] => ?1
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=3
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=ucbsmintdbsmiths87rqc8v0a7; _ga_HJL2CJ5RYR=GS2.1.s1757210960$o9$g1$t1757212634$j52$l0$h0
+        )
+
+)
+
+
+2025-09-07T02:47:37+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => ucbsmintdbsmiths87rqc8v0a7
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757210960$o9$g1$t1757212634$j52$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1352
+            [sec-ch-ua-platform] => "Android"
+            [User-Agent] => Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundarynX7rEuVVidwAXxB3
+            [sec-ch-ua-mobile] => ?1
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=3
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=ucbsmintdbsmiths87rqc8v0a7; _ga_HJL2CJ5RYR=GS2.1.s1757210960$o9$g1$t1757212634$j52$l0$h0
+        )
+
+)
+
+
+2025-09-07T02:48:17+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => ucbsmintdbsmiths87rqc8v0a7
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757210960$o9$g1$t1757212634$j52$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 102
+            [sec-ch-ua-platform] => "Android"
+            [User-Agent] => Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => application/json
+            [sec-ch-ua-mobile] => ?1
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=3
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=ucbsmintdbsmiths87rqc8v0a7; _ga_HJL2CJ5RYR=GS2.1.s1757210960$o9$g1$t1757212634$j52$l0$h0
+        )
+
+)
+
+
+2025-09-07T02:52:39+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => ucbsmintdbsmiths87rqc8v0a7
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757210960$o9$g1$t1757212634$j52$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1354
+            [sec-ch-ua-platform] => "Android"
+            [User-Agent] => Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryKjUCQABZZ60soYUs
+            [sec-ch-ua-mobile] => ?1
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=3
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=ucbsmintdbsmiths87rqc8v0a7; _ga_HJL2CJ5RYR=GS2.1.s1757210960$o9$g1$t1757212634$j52$l0$h0
+        )
+
+)
+
+
+2025-09-07T02:53:08+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => ucbsmintdbsmiths87rqc8v0a7
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757210960$o9$g1$t1757212634$j52$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 102
+            [sec-ch-ua-platform] => "Android"
+            [User-Agent] => Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => application/json
+            [sec-ch-ua-mobile] => ?1
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=3
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=ucbsmintdbsmiths87rqc8v0a7; _ga_HJL2CJ5RYR=GS2.1.s1757210960$o9$g1$t1757212634$j52$l0$h0
+        )
+
+)
+
+
+2025-09-07T03:14:11+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => ucbsmintdbsmiths87rqc8v0a7
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757210960$o9$g1$t1757214140$j52$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 103
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => application/json
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=3
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=ucbsmintdbsmiths87rqc8v0a7; _ga_HJL2CJ5RYR=GS2.1.s1757210960$o9$g1$t1757214140$j52$l0$h0
+        )
+
+)
+
+
+2025-09-07T09:31:51+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => i37ds5ujg7hbnvte6lb3cpv79r
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1061
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryEXO3zr7WnbzlcaDh
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=i37ds5ujg7hbnvte6lb3cpv79r; _ga_HJL2CJ5RYR=GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+)
+
+
+2025-09-07T09:33:12+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => i37ds5ujg7hbnvte6lb3cpv79r
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1071
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryD27bmxFEjxMzoVeo
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=i37ds5ujg7hbnvte6lb3cpv79r; _ga_HJL2CJ5RYR=GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+)
+
+
+2025-09-07T09:34:31+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => i37ds5ujg7hbnvte6lb3cpv79r
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1077
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundary4MLg1Uq3baDSRDun
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=i37ds5ujg7hbnvte6lb3cpv79r; _ga_HJL2CJ5RYR=GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+)
+
+
+2025-09-07T09:35:17+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => i37ds5ujg7hbnvte6lb3cpv79r
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1073
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundarykliTY3amB0Z3gW7s
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=i37ds5ujg7hbnvte6lb3cpv79r; _ga_HJL2CJ5RYR=GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+)
+
+
+2025-09-07T09:35:51+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => i37ds5ujg7hbnvte6lb3cpv79r
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1060
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundary9wwHM3MqdfRLR7gc
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=i37ds5ujg7hbnvte6lb3cpv79r; _ga_HJL2CJ5RYR=GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+)
+
+
+2025-09-07T09:36:35+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => i37ds5ujg7hbnvte6lb3cpv79r
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1058
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryKWI1nizc61AmBndg
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=i37ds5ujg7hbnvte6lb3cpv79r; _ga_HJL2CJ5RYR=GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+)
+
+
+2025-09-07T09:37:17+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => i37ds5ujg7hbnvte6lb3cpv79r
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1061
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundarylgBp1H1X0In69tx6
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=i37ds5ujg7hbnvte6lb3cpv79r; _ga_HJL2CJ5RYR=GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+)
+
+
+2025-09-07T09:38:20+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => i37ds5ujg7hbnvte6lb3cpv79r
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1049
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryzBh7NiPMZMMDxL2D
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=i37ds5ujg7hbnvte6lb3cpv79r; _ga_HJL2CJ5RYR=GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+)
+
+
+2025-09-07T09:39:04+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => i37ds5ujg7hbnvte6lb3cpv79r
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1063
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryMKFKkgCvJA9yYhaW
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=i37ds5ujg7hbnvte6lb3cpv79r; _ga_HJL2CJ5RYR=GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+)
+
+
+2025-09-07T09:40:15+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => i37ds5ujg7hbnvte6lb3cpv79r
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1077
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryXT4dSoj36jTnsqYb
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=i37ds5ujg7hbnvte6lb3cpv79r; _ga_HJL2CJ5RYR=GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+)
+
+
+2025-09-07T09:41:09+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => i37ds5ujg7hbnvte6lb3cpv79r
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1071
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryPqipDILp7TOqCVLi
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=i37ds5ujg7hbnvte6lb3cpv79r; _ga_HJL2CJ5RYR=GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+)
+
+
+2025-09-07T09:41:42+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => i37ds5ujg7hbnvte6lb3cpv79r
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1064
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryIiLZbNAuik7cCXk1
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=i37ds5ujg7hbnvte6lb3cpv79r; _ga_HJL2CJ5RYR=GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+)
+
+
+2025-09-07T09:42:30+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => i37ds5ujg7hbnvte6lb3cpv79r
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1069
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundarynmG6g5h9BaBLEBS1
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=i37ds5ujg7hbnvte6lb3cpv79r; _ga_HJL2CJ5RYR=GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+)
+
+
+2025-09-07T09:44:10+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => i37ds5ujg7hbnvte6lb3cpv79r
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1079
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryUS1R5OBezlVbZCo5
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=i37ds5ujg7hbnvte6lb3cpv79r; _ga_HJL2CJ5RYR=GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+)
+
+
+2025-09-07T09:45:33+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => i37ds5ujg7hbnvte6lb3cpv79r
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1067
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryeNHmxIYtUm2BywpV
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=i37ds5ujg7hbnvte6lb3cpv79r; _ga_HJL2CJ5RYR=GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+)
+
+
+2025-09-07T09:46:30+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => i37ds5ujg7hbnvte6lb3cpv79r
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1049
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryBzuD4gl1nNLT95PP
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=i37ds5ujg7hbnvte6lb3cpv79r; _ga_HJL2CJ5RYR=GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+)
+
+
+2025-09-07T09:47:24+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => i37ds5ujg7hbnvte6lb3cpv79r
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1051
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundary9UD6ZQHmDf0dCCDg
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=i37ds5ujg7hbnvte6lb3cpv79r; _ga_HJL2CJ5RYR=GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+)
+
+
+2025-09-07T09:48:00+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => i37ds5ujg7hbnvte6lb3cpv79r
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1061
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryQrVmNYOdSUeaAiGf
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=i37ds5ujg7hbnvte6lb3cpv79r; _ga_HJL2CJ5RYR=GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+)
+
+
+2025-09-07T09:48:48+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => i37ds5ujg7hbnvte6lb3cpv79r
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1074
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryPyKiXXky1zA8t0SP
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=i37ds5ujg7hbnvte6lb3cpv79r; _ga_HJL2CJ5RYR=GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+)
+
+
+2025-09-07T09:49:40+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => i37ds5ujg7hbnvte6lb3cpv79r
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1078
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryuVFvKxmrZTvGiAvy
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=i37ds5ujg7hbnvte6lb3cpv79r; _ga_HJL2CJ5RYR=GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+)
+
+
+2025-09-07T09:50:42+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => i37ds5ujg7hbnvte6lb3cpv79r
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1061
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryfWOs5CPthwoKjoJC
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=i37ds5ujg7hbnvte6lb3cpv79r; _ga_HJL2CJ5RYR=GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+)
+
+
+2025-09-07T09:51:16+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => i37ds5ujg7hbnvte6lb3cpv79r
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1061
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryn5qQGT3GnWmNZNUf
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=i37ds5ujg7hbnvte6lb3cpv79r; _ga_HJL2CJ5RYR=GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+)
+
+
+2025-09-07T09:51:17+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => i37ds5ujg7hbnvte6lb3cpv79r
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1061
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryhNFaiWIDXh3DbNZa
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=i37ds5ujg7hbnvte6lb3cpv79r; _ga_HJL2CJ5RYR=GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+)
+
+
+2025-09-07T09:51:58+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => i37ds5ujg7hbnvte6lb3cpv79r
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1067
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundary6NMzH2WHjELOrBdj
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=i37ds5ujg7hbnvte6lb3cpv79r; _ga_HJL2CJ5RYR=GS2.1.s1757235043$o11$g1$t1757236812$j10$l0$h0
+        )
+
+)
+
+
+2025-09-08T18:28:09+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => j80qlqcqa53127kgv61tl729av
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757355632$o15$g1$t1757356060$j60$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1045
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundarydfal7mNeH6ZaHEvk
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=j80qlqcqa53127kgv61tl729av; _ga_HJL2CJ5RYR=GS2.1.s1757355632$o15$g1$t1757356060$j60$l0$h0
+        )
+
+)
+
+
+2025-09-09T02:05:59+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => fm35cl18s28akl640479thh1hf
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757382966$o16$g1$t1757383515$j30$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1059
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundary37H3D4B45wQ7cC7e
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=fm35cl18s28akl640479thh1hf; _ga_HJL2CJ5RYR=GS2.1.s1757382966$o16$g1$t1757383515$j30$l0$h0
+        )
+
+)
+
+
+2025-09-09T02:19:42+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => fm35cl18s28akl640479thh1hf
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757382966$o16$g1$t1757384355$j48$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1062
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundary0GCs6WAOEL3iGVPb
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=fm35cl18s28akl640479thh1hf; _ga_HJL2CJ5RYR=GS2.1.s1757382966$o16$g1$t1757384355$j48$l0$h0
+        )
+
+)
+
+
+2025-09-09T02:20:27+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => fm35cl18s28akl640479thh1hf
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757382966$o16$g1$t1757384355$j48$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1052
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryZoxVAen6DKP0JHZL
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=fm35cl18s28akl640479thh1hf; _ga_HJL2CJ5RYR=GS2.1.s1757382966$o16$g1$t1757384355$j48$l0$h0
+        )
+
+)
+
+
+2025-09-09T02:21:07+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => fm35cl18s28akl640479thh1hf
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757382966$o16$g1$t1757384355$j48$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1061
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryWp8hxLXbTkAsowFl
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=fm35cl18s28akl640479thh1hf; _ga_HJL2CJ5RYR=GS2.1.s1757382966$o16$g1$t1757384355$j48$l0$h0
+        )
+
+)
+
+
+2025-09-09T02:21:39+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => fm35cl18s28akl640479thh1hf
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757382966$o16$g1$t1757384355$j48$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1050
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryA2cBJPFdMuUYqEDb
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=fm35cl18s28akl640479thh1hf; _ga_HJL2CJ5RYR=GS2.1.s1757382966$o16$g1$t1757384355$j48$l0$h0
+        )
+
+)
+
+
+2025-09-09T02:24:56+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => fm35cl18s28akl640479thh1hf
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757382966$o16$g1$t1757384631$j48$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1059
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryusncrBOpcUqsRbQO
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=fm35cl18s28akl640479thh1hf; _ga_HJL2CJ5RYR=GS2.1.s1757382966$o16$g1$t1757384631$j48$l0$h0
+        )
+
+)
+
+
+2025-09-09T02:25:42+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => fm35cl18s28akl640479thh1hf
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757382966$o16$g1$t1757384631$j48$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1066
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryfMAB79v851OVYk86
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=fm35cl18s28akl640479thh1hf; _ga_HJL2CJ5RYR=GS2.1.s1757382966$o16$g1$t1757384631$j48$l0$h0
+        )
+
+)
+
+
+2025-09-09T02:26:16+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => fm35cl18s28akl640479thh1hf
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757382966$o16$g1$t1757384631$j48$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1060
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryVHQB6ssWAhy9TunJ
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=fm35cl18s28akl640479thh1hf; _ga_HJL2CJ5RYR=GS2.1.s1757382966$o16$g1$t1757384631$j48$l0$h0
+        )
+
+)
+
+
+2025-09-09T02:26:57+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => fm35cl18s28akl640479thh1hf
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757382966$o16$g1$t1757384631$j48$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1062
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0
+            [sec-ch-ua] => "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryKJEGZaI7A1nlgBNh
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=fm35cl18s28akl640479thh1hf; _ga_HJL2CJ5RYR=GS2.1.s1757382966$o16$g1$t1757384631$j48$l0$h0
+        )
+
+)
+
+
+2025-09-10T10:52:18+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => uvjfbv24ctnmi9iml6agofjc98
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757500708$o17$g1$t1757501482$j42$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1061
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryQQ6fmCvvoZYRj7eI
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=uvjfbv24ctnmi9iml6agofjc98; _ga_HJL2CJ5RYR=GS2.1.s1757500708$o17$g1$t1757501482$j42$l0$h0
+        )
+
+)
+
+
+2025-09-10T10:53:07+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => uvjfbv24ctnmi9iml6agofjc98
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757500708$o17$g1$t1757501482$j42$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1065
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryOQj6cM1HU0fg8ljC
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=uvjfbv24ctnmi9iml6agofjc98; _ga_HJL2CJ5RYR=GS2.1.s1757500708$o17$g1$t1757501482$j42$l0$h0
+        )
+
+)
+
+
+2025-09-12T02:02:49+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => 4sdlccohqasrh2b31s3fcon6bg
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1281
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryuXApJqA0TZxaZmos
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=4sdlccohqasrh2b31s3fcon6bg; _ga_HJL2CJ5RYR=GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+)
+
+
+2025-09-12T02:03:27+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => 4sdlccohqasrh2b31s3fcon6bg
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1285
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundarymuoUhCg51Mm9beXU
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=4sdlccohqasrh2b31s3fcon6bg; _ga_HJL2CJ5RYR=GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+)
+
+
+2025-09-12T02:04:12+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => 4sdlccohqasrh2b31s3fcon6bg
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1275
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryvo6yAIlkqAgyBiof
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=4sdlccohqasrh2b31s3fcon6bg; _ga_HJL2CJ5RYR=GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+)
+
+
+2025-09-12T02:21:27+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => 4sdlccohqasrh2b31s3fcon6bg
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1281
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryOHhI9vh71NxhpC9c
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=4sdlccohqasrh2b31s3fcon6bg; _ga_HJL2CJ5RYR=GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+)
+
+
+2025-09-12T02:21:57+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => 4sdlccohqasrh2b31s3fcon6bg
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1266
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryBodiCIBTeRQHHZky
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=4sdlccohqasrh2b31s3fcon6bg; _ga_HJL2CJ5RYR=GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+)
+
+
+2025-09-12T02:22:44+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => 4sdlccohqasrh2b31s3fcon6bg
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1269
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundarysu66AGWgKU9I9Xs4
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=4sdlccohqasrh2b31s3fcon6bg; _ga_HJL2CJ5RYR=GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+)
+
+
+2025-09-12T02:24:26+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => 4sdlccohqasrh2b31s3fcon6bg
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1279
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryP3BkryxDFUzqwZBo
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=4sdlccohqasrh2b31s3fcon6bg; _ga_HJL2CJ5RYR=GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+)
+
+
+2025-09-12T02:25:03+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => 4sdlccohqasrh2b31s3fcon6bg
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1270
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundarywI8I0fKhZY8Z5uGc
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=4sdlccohqasrh2b31s3fcon6bg; _ga_HJL2CJ5RYR=GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+)
+
+
+2025-09-12T02:25:50+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => 4sdlccohqasrh2b31s3fcon6bg
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1259
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryB3WPAlbetKA9BWUE
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=4sdlccohqasrh2b31s3fcon6bg; _ga_HJL2CJ5RYR=GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+)
+
+
+2025-09-12T02:26:22+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => 4sdlccohqasrh2b31s3fcon6bg
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1256
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundary8wJIptyAw3iBcFjY
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=4sdlccohqasrh2b31s3fcon6bg; _ga_HJL2CJ5RYR=GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+)
+
+
+2025-09-12T02:27:07+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => 4sdlccohqasrh2b31s3fcon6bg
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1282
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryIyNtg34uauUQgFES
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=4sdlccohqasrh2b31s3fcon6bg; _ga_HJL2CJ5RYR=GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+)
+
+
+2025-09-12T02:27:59+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => 4sdlccohqasrh2b31s3fcon6bg
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1296
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryoT9ahITmThtTzZMy
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=4sdlccohqasrh2b31s3fcon6bg; _ga_HJL2CJ5RYR=GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+)
+
+
+2025-09-12T02:28:43+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => 4sdlccohqasrh2b31s3fcon6bg
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1282
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryBvLlEnb8blHeMuKk
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=4sdlccohqasrh2b31s3fcon6bg; _ga_HJL2CJ5RYR=GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+)
+
+
+2025-09-12T02:29:41+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => 4sdlccohqasrh2b31s3fcon6bg
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1267
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundarywDeafnAsmPlBXgm6
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=4sdlccohqasrh2b31s3fcon6bg; _ga_HJL2CJ5RYR=GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+)
+
+
+2025-09-12T02:30:14+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => 4sdlccohqasrh2b31s3fcon6bg
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1267
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryDThUCA34leeE1fFw
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=4sdlccohqasrh2b31s3fcon6bg; _ga_HJL2CJ5RYR=GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+)
+
+
+2025-09-12T02:30:57+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => 4sdlccohqasrh2b31s3fcon6bg
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1265
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryCCFZzZ5AIA7ZfQsL
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=4sdlccohqasrh2b31s3fcon6bg; _ga_HJL2CJ5RYR=GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+)
+
+
+2025-09-12T02:31:41+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => 4sdlccohqasrh2b31s3fcon6bg
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1271
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundary0yzmraByRzSvpOdv
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=4sdlccohqasrh2b31s3fcon6bg; _ga_HJL2CJ5RYR=GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+)
+
+
+2025-09-12T02:32:28+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => 4sdlccohqasrh2b31s3fcon6bg
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1261
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundarylwbMBbDXYDKgMzKE
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=4sdlccohqasrh2b31s3fcon6bg; _ga_HJL2CJ5RYR=GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+)
+
+
+2025-09-12T02:33:02+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => 4sdlccohqasrh2b31s3fcon6bg
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1264
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryEjLPoTHkT8a9W9gc
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=4sdlccohqasrh2b31s3fcon6bg; _ga_HJL2CJ5RYR=GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+)
+
+
+2025-09-12T02:33:41+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => 4sdlccohqasrh2b31s3fcon6bg
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1268
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryKUW8eRAuWA6nh0ZZ
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=4sdlccohqasrh2b31s3fcon6bg; _ga_HJL2CJ5RYR=GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+)
+
+
+2025-09-12T02:34:14+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => 4sdlccohqasrh2b31s3fcon6bg
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1267
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryq4Ox5gsKjh1Am1DZ
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=4sdlccohqasrh2b31s3fcon6bg; _ga_HJL2CJ5RYR=GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+)
+
+
+2025-09-12T02:34:47+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => 4sdlccohqasrh2b31s3fcon6bg
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1270
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryAblYmzwsNTBG0vyG
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=4sdlccohqasrh2b31s3fcon6bg; _ga_HJL2CJ5RYR=GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+)
+
+
+2025-09-12T02:35:25+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => 4sdlccohqasrh2b31s3fcon6bg
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1278
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryaKjL5lRNiT3yBHoU
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=4sdlccohqasrh2b31s3fcon6bg; _ga_HJL2CJ5RYR=GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+)
+
+
+2025-09-12T02:36:05+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => 4sdlccohqasrh2b31s3fcon6bg
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1266
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryu7myGb3jwsIWBwCe
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=4sdlccohqasrh2b31s3fcon6bg; _ga_HJL2CJ5RYR=GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+)
+
+
+2025-09-12T02:36:51+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => 4sdlccohqasrh2b31s3fcon6bg
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1266
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryIoZnWT5RHeqNGsGq
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=4sdlccohqasrh2b31s3fcon6bg; _ga_HJL2CJ5RYR=GS2.1.s1757640704$o22$g1$t1757642498$j30$l0$h0
+        )
+
+)
+
+
+2025-09-12T03:20:54+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => 4sdlccohqasrh2b31s3fcon6bg
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757644620$o23$g1$t1757647228$j50$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1266
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryknDBmD7alZ1x0gK5
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=4sdlccohqasrh2b31s3fcon6bg; _ga_HJL2CJ5RYR=GS2.1.s1757644620$o23$g1$t1757647228$j50$l0$h0
+        )
+
+)
+
+
+2025-09-12T03:21:49+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => 4sdlccohqasrh2b31s3fcon6bg
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757644620$o23$g1$t1757647228$j50$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1268
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundarybxp90lPMbBmNF50D
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=4sdlccohqasrh2b31s3fcon6bg; _ga_HJL2CJ5RYR=GS2.1.s1757644620$o23$g1$t1757647228$j50$l0$h0
+        )
+
+)
+
+
+2025-09-12T03:28:22+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => 4sdlccohqasrh2b31s3fcon6bg
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757644620$o23$g1$t1757647664$j31$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1252
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryUFYz6RXo9qS8mrSj
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=4sdlccohqasrh2b31s3fcon6bg; _ga_HJL2CJ5RYR=GS2.1.s1757644620$o23$g1$t1757647664$j31$l0$h0
+        )
+
+)
+
+
+2025-09-12T03:28:46+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => 4sdlccohqasrh2b31s3fcon6bg
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757644620$o23$g1$t1757647664$j31$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1252
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryS5R1crdG8VVnm8DY
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=4sdlccohqasrh2b31s3fcon6bg; _ga_HJL2CJ5RYR=GS2.1.s1757644620$o23$g1$t1757647664$j31$l0$h0
+        )
+
+)
+
+
+2025-09-12T03:29:22+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => 4sdlccohqasrh2b31s3fcon6bg
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757644620$o23$g1$t1757647664$j31$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1252
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryIZgTxiwhEJQk0kBk
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=4sdlccohqasrh2b31s3fcon6bg; _ga_HJL2CJ5RYR=GS2.1.s1757644620$o23$g1$t1757647664$j31$l0$h0
+        )
+
+)
+
+
+2025-09-12T03:29:42+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => 4sdlccohqasrh2b31s3fcon6bg
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757644620$o23$g1$t1757647664$j31$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1252
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundarytc3tfky1OZN1GrmJ
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=4sdlccohqasrh2b31s3fcon6bg; _ga_HJL2CJ5RYR=GS2.1.s1757644620$o23$g1$t1757647664$j31$l0$h0
+        )
+
+)
+
+
+2025-09-12T03:30:02+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => 4sdlccohqasrh2b31s3fcon6bg
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757644620$o23$g1$t1757647664$j31$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1252
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryDZjCfBND4mY4oZkN
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=4sdlccohqasrh2b31s3fcon6bg; _ga_HJL2CJ5RYR=GS2.1.s1757644620$o23$g1$t1757647664$j31$l0$h0
+        )
+
+)
+
+
+2025-09-12T03:30:29+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => 4sdlccohqasrh2b31s3fcon6bg
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757644620$o23$g1$t1757647664$j31$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1252
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryzZWZVDoayDBOATSo
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=4sdlccohqasrh2b31s3fcon6bg; _ga_HJL2CJ5RYR=GS2.1.s1757644620$o23$g1$t1757647664$j31$l0$h0
+        )
+
+)
+
+
+2025-09-12T03:30:53+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => 4sdlccohqasrh2b31s3fcon6bg
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757644620$o23$g1$t1757647664$j31$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1252
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryZ7QHDbH9blVGLfio
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=4sdlccohqasrh2b31s3fcon6bg; _ga_HJL2CJ5RYR=GS2.1.s1757644620$o23$g1$t1757647664$j31$l0$h0
+        )
+
+)
+
+
+2025-09-12T03:31:14+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => 4sdlccohqasrh2b31s3fcon6bg
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757644620$o23$g1$t1757647664$j31$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1252
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundarykUiRKUA2F2lAPk68
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=4sdlccohqasrh2b31s3fcon6bg; _ga_HJL2CJ5RYR=GS2.1.s1757644620$o23$g1$t1757647664$j31$l0$h0
+        )
+
+)
+
+
+2025-09-12T03:31:36+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => 4sdlccohqasrh2b31s3fcon6bg
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757644620$o23$g1$t1757647664$j31$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1252
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundary8E24kA9KXviWsWzt
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=4sdlccohqasrh2b31s3fcon6bg; _ga_HJL2CJ5RYR=GS2.1.s1757644620$o23$g1$t1757647664$j31$l0$h0
+        )
+
+)
+
+
+2025-09-12T03:31:56+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => 4sdlccohqasrh2b31s3fcon6bg
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757644620$o23$g1$t1757647664$j31$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1252
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryjWFD8TDM5Vr0bLoI
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=4sdlccohqasrh2b31s3fcon6bg; _ga_HJL2CJ5RYR=GS2.1.s1757644620$o23$g1$t1757647664$j31$l0$h0
+        )
+
+)
+
+
+2025-09-12T03:32:25+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => 4sdlccohqasrh2b31s3fcon6bg
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757644620$o23$g1$t1757647664$j31$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1252
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryLfWOISV9AuC5x9gk
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=4sdlccohqasrh2b31s3fcon6bg; _ga_HJL2CJ5RYR=GS2.1.s1757644620$o23$g1$t1757647664$j31$l0$h0
+        )
+
+)
+
+
+2025-09-12T03:33:00+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => 4sdlccohqasrh2b31s3fcon6bg
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757644620$o23$g1$t1757647664$j31$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1149
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryV7yBdAVUzSm79KAJ
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=4sdlccohqasrh2b31s3fcon6bg; _ga_HJL2CJ5RYR=GS2.1.s1757644620$o23$g1$t1757647664$j31$l0$h0
+        )
+
+)
+
+
+2025-09-12T03:33:32+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => 4sdlccohqasrh2b31s3fcon6bg
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757644620$o23$g1$t1757647664$j31$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1252
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryCcBAT1kmIUENBpR2
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=4sdlccohqasrh2b31s3fcon6bg; _ga_HJL2CJ5RYR=GS2.1.s1757644620$o23$g1$t1757647664$j31$l0$h0
+        )
+
+)
+
+
+2025-09-12T03:34:00+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => 4sdlccohqasrh2b31s3fcon6bg
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757644620$o23$g1$t1757647664$j31$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1252
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryr5VgnA5ShKiFdq1Q
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=4sdlccohqasrh2b31s3fcon6bg; _ga_HJL2CJ5RYR=GS2.1.s1757644620$o23$g1$t1757647664$j31$l0$h0
+        )
+
+)
+
+
+2025-09-12T03:34:33+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => 4sdlccohqasrh2b31s3fcon6bg
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757644620$o23$g1$t1757647664$j31$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 103
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => application/json
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=4sdlccohqasrh2b31s3fcon6bg; _ga_HJL2CJ5RYR=GS2.1.s1757644620$o23$g1$t1757647664$j31$l0$h0
+        )
+
+)
+
+
+2025-09-13T14:34:01+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757644620$o23$g1$t1757648117$j32$l0$h0
+            [PHPSESSID] => iu6n0cl0rtlt0cm1q5ct72m4st
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 103
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => application/json
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; _ga_HJL2CJ5RYR=GS2.1.s1757644620$o23$g1$t1757648117$j32$l0$h0; PHPSESSID=iu6n0cl0rtlt0cm1q5ct72m4st
+        )
+
+)
+
+
+2025-09-13T14:40:50+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757644620$o23$g1$t1757648117$j32$l0$h0
+            [PHPSESSID] => iu6n0cl0rtlt0cm1q5ct72m4st
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 103
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => application/json
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; _ga_HJL2CJ5RYR=GS2.1.s1757644620$o23$g1$t1757648117$j32$l0$h0; PHPSESSID=iu6n0cl0rtlt0cm1q5ct72m4st
+        )
+
+)
+
+
+2025-09-13T14:42:59+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757644620$o23$g1$t1757648117$j32$l0$h0
+            [PHPSESSID] => iu6n0cl0rtlt0cm1q5ct72m4st
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 105
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => application/json
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; _ga_HJL2CJ5RYR=GS2.1.s1757644620$o23$g1$t1757648117$j32$l0$h0; PHPSESSID=iu6n0cl0rtlt0cm1q5ct72m4st
+        )
+
+)
+
+
+2025-09-13T14:45:12+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757644620$o23$g1$t1757648117$j32$l0$h0
+            [PHPSESSID] => iu6n0cl0rtlt0cm1q5ct72m4st
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 105
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => application/json
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; _ga_HJL2CJ5RYR=GS2.1.s1757644620$o23$g1$t1757648117$j32$l0$h0; PHPSESSID=iu6n0cl0rtlt0cm1q5ct72m4st
+        )
+
+)
+
+
+2025-09-13T14:48:54+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => iu6n0cl0rtlt0cm1q5ct72m4st
+            [_ga_HJL2CJ5RYR] => GS2.1.s1757774721$o24$g1$t1757774777$j4$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1284
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryq4euBMysA9nj2BKA
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=iu6n0cl0rtlt0cm1q5ct72m4st; _ga_HJL2CJ5RYR=GS2.1.s1757774721$o24$g1$t1757774777$j4$l0$h0
+        )
+
+)
+
+
+2025-09-16T12:48:52+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => sjk7q2re8ghtvefled82qreur0
+            [_ga_HJL2CJ5RYR] => GS2.1.s1758025554$o28$g1$t1758026889$j40$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1178
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryuyi2vSiZoDm7xSoe
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=sjk7q2re8ghtvefled82qreur0; _ga_HJL2CJ5RYR=GS2.1.s1758025554$o28$g1$t1758026889$j40$l0$h0
+        )
+
+)
+
+
+2025-09-18T12:46:42+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => qjeu3sjeqsuduc1vorkg54sq13
+            [_ga_HJL2CJ5RYR] => GS2.1.s1758199176$o30$g1$t1758199473$j47$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1252
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryEm2nOdIrz4NtEXKz
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=qjeu3sjeqsuduc1vorkg54sq13; _ga_HJL2CJ5RYR=GS2.1.s1758199176$o30$g1$t1758199473$j47$l0$h0
+        )
+
+)
+
+
+2025-09-18T12:47:42+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => qjeu3sjeqsuduc1vorkg54sq13
+            [_ga_HJL2CJ5RYR] => GS2.1.s1758199176$o30$g1$t1758199473$j47$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1252
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryw9peXR31mz3RCQ2G
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=qjeu3sjeqsuduc1vorkg54sq13; _ga_HJL2CJ5RYR=GS2.1.s1758199176$o30$g1$t1758199473$j47$l0$h0
+        )
+
+)
+
+
+2025-09-18T12:48:11+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => qjeu3sjeqsuduc1vorkg54sq13
+            [_ga_HJL2CJ5RYR] => GS2.1.s1758199176$o30$g1$t1758199473$j47$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1252
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundary1N6ODSdkgWd5jnY9
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=qjeu3sjeqsuduc1vorkg54sq13; _ga_HJL2CJ5RYR=GS2.1.s1758199176$o30$g1$t1758199473$j47$l0$h0
+        )
+
+)
+
+
+2025-09-18T12:48:48+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => qjeu3sjeqsuduc1vorkg54sq13
+            [_ga_HJL2CJ5RYR] => GS2.1.s1758199176$o30$g1$t1758199473$j47$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1252
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundarypHJ0VXB1ipOla4Q3
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=qjeu3sjeqsuduc1vorkg54sq13; _ga_HJL2CJ5RYR=GS2.1.s1758199176$o30$g1$t1758199473$j47$l0$h0
+        )
+
+)
+
+
+2025-09-18T12:48:49+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [_ga] => GA1.1.566598136.1756821848
+            [PHPSESSID] => qjeu3sjeqsuduc1vorkg54sq13
+            [_ga_HJL2CJ5RYR] => GS2.1.s1758199176$o30$g1$t1758199473$j47$l0$h0
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1252
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+            [sec-ch-ua] => "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryrxBc3EJsAHlBAHCy
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Accept-Language] => en-US,en;q=0.9
+            [Cookie] => _ga=GA1.1.566598136.1756821848; PHPSESSID=qjeu3sjeqsuduc1vorkg54sq13; _ga_HJL2CJ5RYR=GS2.1.s1758199176$o30$g1$t1758199473$j47$l0$h0
+        )
+
+)
+
+
+2025-10-12T11:44:05+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [PHPSESSID] => hl3bi9fgfa9kevlaslb75vvh2i
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 1151
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+            [sec-ch-ua] => "Brave";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+            [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryeKLavSX9PcGEQsde
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Sec-GPC] => 1
+            [Accept-Language] => en-US,en;q=0.6
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Cookie] => PHPSESSID=hl3bi9fgfa9kevlaslb75vvh2i
+        )
+
+)
+
+
+2025-10-12T11:45:10+00:00
+Array
+(
+    [cookies] => Array
+        (
+            [PHPSESSID] => hl3bi9fgfa9kevlaslb75vvh2i
+        )
+
+    [headers] => Array
+        (
+            [Host] => localhost
+            [Connection] => keep-alive
+            [Content-Length] => 106
+            [sec-ch-ua-platform] => "Windows"
+            [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+            [sec-ch-ua] => "Brave";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+            [Content-Type] => application/json
+            [sec-ch-ua-mobile] => ?0
+            [Accept] => */*
+            [Sec-GPC] => 1
+            [Accept-Language] => en-US,en;q=0.6
+            [Origin] => http://localhost
+            [Sec-Fetch-Site] => same-origin
+            [Sec-Fetch-Mode] => cors
+            [Sec-Fetch-Dest] => empty
+            [Referer] => http://localhost/acasmart/teacher_dashboard.php?school_id=8
+            [Accept-Encoding] => gzip, deflate, br, zstd
+            [Cookie] => PHPSESSID=hl3bi9fgfa9kevlaslb75vvh2i
+        )
+
+)
+
+
