@@ -57,6 +57,29 @@ $stmt->execute();
 $result = $stmt->get_result();
 $classes = $result->fetch_all(MYSQLI_ASSOC);
 
+// Build teacher's assignments (classes and subjects) for profile modal
+$assignments_query = "SELECT c.name AS class_name, s.subject_name
+                      FROM teacher_subjects ts
+                      JOIN classes c ON ts.class_id = c.id
+                      JOIN subjects s ON ts.subject_id = s.subject_id
+                      WHERE ts.user_id = ? AND c.school_id = ?
+                      ORDER BY c.name, s.subject_name";
+$stmt_assignments = $conn->prepare($assignments_query);
+$stmt_assignments->bind_param("ii", $teacher_id, $school_id);
+$stmt_assignments->execute();
+$assignments_result = $stmt_assignments->get_result();
+$teacher_assignments = $assignments_result->fetch_all(MYSQLI_ASSOC);
+
+// Group subjects by class for easy display
+$assignments_by_class = [];
+foreach ($teacher_assignments as $ta) {
+    $classKey = $ta['class_name'];
+    if (!isset($assignments_by_class[$classKey])) {
+        $assignments_by_class[$classKey] = [];
+    }
+    $assignments_by_class[$classKey][] = $ta['subject_name'];
+}
+
 // Fetch the current term and year
 $query_current_term = "SELECT id, name, year FROM terms WHERE school_id = ? AND is_current = 1 LIMIT 1";
 $stmt_current_term = $conn->prepare($query_current_term);
@@ -816,6 +839,7 @@ if (empty($max_scores)) {
     <title>Teacher Dashboard</title>
     <!-- Add Font Awesome for icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <script src="https://cdn.tailwindcss.com"></script>
     <style>
         :root {
             --primary-color: #2c3e50;
@@ -852,21 +876,74 @@ if (empty($max_scores)) {
         }
 
         .header-content {
-            display: flex;
-            justify-content: space-between;
+            display: grid;
+            grid-template-columns: 1fr auto;
+            gap: 16px;
             align-items: center;
             max-width: 1200px;
             margin: 0 auto;
             padding: 0 20px;
-            flex-wrap: wrap;
         }
 
         .teacher-info {
-            text-align: right;
-            display: flex;
-            align-items: center;
-            gap: 20px;
+            display: grid;
+            gap: 6px;
+            justify-items: end;
         }
+
+        .hero-badges {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+
+        .badge {
+            background-color: rgba(255, 255, 255, 0.15);
+            color: #fff;
+            padding: 6px 10px;
+            border-radius: 999px;
+            font-size: 0.8rem;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+
+        .hero-actions {
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        /* Unified action buttons in header */
+        .hero-actions .action-btn {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            padding: 10px 14px;
+            height: 44px;
+            min-width: 140px;
+            border-radius: 8px;
+            font-size: 0.95rem;
+            text-decoration: none;
+            box-sizing: border-box;
+            transition: background-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease, border-color 0.2s ease;
+        }
+        .hero-actions .action-btn i { font-size: 18px; }
+        .hero-actions .action-btn--ghost {
+            background: transparent;
+            color: #fff;
+            border: 1px solid rgba(255,255,255,0.3);
+        }
+        .hero-actions .action-btn--ghost:hover { border-color: rgba(255,255,255,0.5); transform: translateY(-1px); }
+        .hero-actions .action-btn--primary {
+            background-color: var(--accent-color);
+            color: #fff;
+            border: none;
+        }
+        .hero-actions .action-btn--primary:hover { background-color: #c0392b; transform: translateY(-1px); }
 
         .teacher-info i {
             font-size: 24px;
@@ -880,14 +957,30 @@ if (empty($max_scores)) {
 
         h1 {
             margin: 0;
-            font-size: 2rem;
-            display: flex;
-            align-items: center;
-            gap: 10px;
         }
 
-        h1 i {
-            font-size: 28px;
+        /* Make the header title white and larger for visibility */
+        header h1 { color: #ffffff; font-size: clamp(1.1rem, 3.2vw, 2.8rem); }
+        header h1 i { color: #ffffff; }
+
+        /* Enhanced header title styling */
+        .app-title { display: inline-flex; align-items: center; gap: 12px; color: #fff; }
+        .app-title .title-icon {
+            width: 48px;
+            height: 48px;
+            border-radius: 12px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            background: rgba(255,255,255,0.15);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15) inset, 0 2px 8px rgba(0,0,0,0.08);
+        }
+        .app-title .title-icon i { font-size: 22px; color: #fff; }
+        .app-title .title-text {
+            font-size: clamp(1.8rem, 2.8vw, 2.4rem);
+            font-weight: 800;
+            letter-spacing: 0.3px;
+            text-shadow: 0 2px 6px rgba(0,0,0,0.18);
         }
 
         .dashboard-section {
@@ -928,14 +1021,16 @@ if (empty($max_scores)) {
             gap: 8px;
         }
 
-        select, input[type="number"] {
+        select, input[type="number"], input[type="text"] {
             width: 100%;
-            padding: 12px;
+            padding: 10px 12px;
+            height: 44px;
             border: 2px solid var(--border-color);
             border-radius: 8px;
             font-size: 16px;
+            line-height: 22px;
             box-sizing: border-box;
-            transition: border-color 0.3s ease;
+            transition: border-color 0.3s ease, box-shadow 0.3s ease;
         }
 
         select:focus, input[type="number"]:focus, input[type="text"]:focus {
@@ -969,6 +1064,7 @@ if (empty($max_scores)) {
         .topic-input {
             width: 100%;
             padding: 11px 12px 11px 40px;
+            height: 44px;
             border: 2px solid #e9ecef;
             border-radius: 10px;
             background-color: #f8f9fa;
@@ -1030,6 +1126,29 @@ if (empty($max_scores)) {
             background-color: #95a5a6;
             cursor: not-allowed;
             transform: none;
+        }
+
+        /* Success (light green) button style */
+        .btn-success {
+            background-color: #34d399; /* light green */
+            color: #ffffff;
+            border: none;
+        }
+        .btn-success:hover {
+            background-color: #10b981; /* a bit darker green on hover */
+        }
+
+        /* Ensure consistent size for Load Students, Submit Marks, and View Results buttons */
+        #loadStudentsBtn, #submitMarksBtn, #viewResultsBtn, #loadProgressBtn, #generateTemplateBtn, #uploadMarksBtn {
+            height: 44px;
+            min-width: 160px;
+            padding: 10px 16px;
+            border-radius: 8px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            box-sizing: border-box;
         }
 
         .success-message, .error-message {
@@ -1227,16 +1346,10 @@ if (empty($max_scores)) {
                 width: 100%;
             }
 
-            .header-content {
-                flex-direction: column;
-                text-align: center;
-            }
-
-            .teacher-info {
-                text-align: center;
-                margin-top: 10px;
-                flex-direction: column;
-            }
+            .header-content { grid-template-columns: 1fr; }
+            .teacher-info { justify-items: center; text-align: center; }
+            .hero-actions { width: 100%; gap: 8px; }
+            .hero-actions .action-btn { flex: 1; min-width: unset; width: 100%; height: 44px; }
 
             h1 {
                 font-size: 1.5rem;
@@ -1262,42 +1375,63 @@ if (empty($max_scores)) {
 
         .dashboard-options {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 2rem;
-            padding: 2rem;
-            margin-top: 2rem;
+            grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+            gap: 1.5rem;
+            padding: 1.5rem;
+            margin-top: 1.5rem;
         }
 
         .option-card {
-            background: white;
-            border-radius: 12px;
-            padding: 2rem;
+            position: relative;
+            background: linear-gradient(180deg, #ffffff 0%, #fbfdff 100%);
+            border-radius: 14px;
+            padding: 1.6rem;
             text-align: center;
-            box-shadow: var(--card-shadow);
+            box-shadow: 0 6px 18px rgba(0,0,0,0.08);
             cursor: pointer;
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            transition: transform 0.25s ease, box-shadow 0.25s ease;
+            border: 1px solid #eef2f7;
         }
 
         .option-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+            transform: translateY(-4px);
+            box-shadow: 0 10px 20px rgba(0,0,0,0.1);
         }
 
-        .option-card i {
-            font-size: 3rem;
+        .option-card .icon-wrap {
+            width: 56px;
+            height: 56px;
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: rgba(52,152,219,0.12);
+            margin: 0 auto 1rem;
+        }
+        .option-card .icon-wrap i {
+            font-size: 1.6rem;
             color: var(--secondary-color);
-            margin-bottom: 1rem;
         }
 
         .option-card h3 {
             color: var(--primary-color);
-            margin-bottom: 0.5rem;
+            margin: 0 0 0.25rem;
         }
 
         .option-card p {
-            color: #666;
+            color: #667085;
             font-size: 0.9rem;
+            margin: 0 0 0.75rem;
         }
+
+        .option-card .cta {
+            color: var(--secondary-color);
+            font-weight: 600;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+        }
+        .option-card .cta i { font-size: 0.9rem; }
 
         .section-header {
             display: flex;
@@ -1475,10 +1609,11 @@ if (empty($max_scores)) {
         }
 
         .edit-score-input, .raw-score, .normalized-score {
-            width: 100px;
-            padding: 8px;
+            width: 120px;
+            height: 44px;
+            padding: 8px 10px;
             border: 2px solid var(--border-color);
-            border-radius: 4px;
+            border-radius: 8px;
             text-align: center;
             font-size: 14px;
             transition: all 0.3s ease;
@@ -2175,15 +2310,21 @@ if (empty($max_scores)) {
 <body>
 <header>
     <div class="header-content">
-        <h1><i class="fas fa-chalkboard-teacher"></i> Teacher Dashboard</h1>
-        <div class="teacher-info">
-            <div>
-                
-                <p>Welcome, Teacher - <?php echo htmlspecialchars($teacher_name); ?></p>
-                <p><i class="fas fa-school"></i> <?php echo htmlspecialchars($school_name); ?></p>
-            </div>
+        <div>
+        <h1> TEACHER'S DASHBOARD</h1>
+        </div>
+        <div class="hero-actions">
+            <a href="teacher_messaging.php" class="action-btn action-btn--ghost" title="Open Chat" style="position: relative;">
+                <i class="fas fa-comments"></i>
+                <span>Chat</span>
+                <span id="chatUnreadBadge" style="display:none; position:absolute; top:-6px; right:-6px; background:#e02424; color:#fff; border-radius:999px; font-size:12px; line-height:18px; min-width:18px; height:18px; padding:0 5px; text-align:center;">0</span>
+            </a>
+            <a href="profile.php" class="action-btn action-btn--ghost" title="View Profile" style="position: relative;">
+                <i class="fas fa-user-circle"></i>
+                <span>Profile</span>
+            </a>
+            <a href="index.php" class="action-btn action-btn--primary"><i class="fas fa-sign-out-alt"></i> Sign Out</a>
             <div id="notification" class="notification" style="display: none;"></div>
-            <a href="index.php" class="sign-out-btn"><i class="fas fa-sign-out-alt"></i> Sign Out</a>
         </div>
     </div>
 </header>
@@ -2193,19 +2334,22 @@ if (empty($max_scores)) {
 
         <div class="dashboard-options" id="mainOptions">
             <div class="option-card" onclick="showSection('uploadSection')">
-                <i class="fas fa-upload"></i>
+                <div class="icon-wrap"><i class="fas fa-upload"></i></div>
                 <h3>Upload Marks</h3>
                 <p>Enter directly or upload student marks for exams and assessments</p>
+                <span class="cta">Get Started <i class="fas fa-arrow-right"></i></span>
             </div>
             <div class="option-card" onclick="showSection('viewSection')">
-                <i class="fas fa-chart-bar"></i>
+                <div class="icon-wrap"><i class="fas fa-chart-bar"></i></div>
                 <h3>View Results</h3>
                 <p>View and manage existing exam results</p>
+                <span class="cta">Open Results <i class="fas fa-arrow-right"></i></span>
             </div>
             <div class="option-card" onclick="showSection('progressSection')">
-                <i class="fas fa-tasks"></i>
+                <div class="icon-wrap"><i class="fas fa-tasks"></i></div>
                 <h3>Assess Progress</h3>
                 <p>Track your progress in entering marks for different exam types</p>
+                <span class="cta">Track Now <i class="fas fa-arrow-right"></i></span>
             </div>
         </div>
 
@@ -2215,7 +2359,7 @@ if (empty($max_scores)) {
             </div>
             <div class="tabs">
                 <button class="tab-button active" onclick="switchTab('directEntry')">
-                    <i class="fas fa-keyboard"></i> Enter Marks Directly
+                    <i class="fas fa-keyboard"></i> Enter Marks
                 </button>
                 <button class="tab-button" onclick="switchTab('csvUpload')">
                     <i class="fas fa-file-csv"></i> Upload via excel sheet
@@ -2267,7 +2411,6 @@ if (empty($max_scores)) {
                     <div class="topic-wrapper">
                         <label><i class="fas fa-lightbulb"></i> Topic (for activities):</label>
                         <div class="topic-field">
-                            <i class="fas fa-lightbulb topic-icon" aria-hidden="true"></i>
                             <input type="text" id="direct_topic" name="topic" placeholder="e.g., Photosynthesis, Algebra Basics, Creative Writing" maxlength="255" class="topic-input">
                             <div class="topic-count" id="direct_topic_count">0/255</div>
                         </div>
@@ -2289,7 +2432,7 @@ if (empty($max_scores)) {
                         <input type="number" id="direct_teacher_max_score" name="teacher_max_score" min="1" step="1" required>
                     </div>
 
-                    <button type="button" id="loadStudentsBtn" disabled><i class="fas fa-users"></i> Load Students</button>
+                    <button type="button" id="loadStudentsBtn" disabled> Load Students</button>
                     <div id="studentMarksSection" class="student-list" style="display: none;"></div>
                     <button type="submit" name="enter_marks" id="submitMarksBtn" disabled><i class="fas fa-save"></i> Submit Marks</button>
                 </form>
@@ -2531,6 +2674,7 @@ if (empty($max_scores)) {
             </div>
         </div>
     </div>
+
 
    <div id="existingMarksModal" class="modal">
     <div class="modal-content">
@@ -3270,15 +3414,28 @@ function loadStudents(classId, subjectId, examType, category, maxScore, teacherM
             if (students.length > 0) {
                 studentMarksSection.style.display = 'block';
                 document.getElementById('submitMarksBtn').disabled = false;
+                // Highlight action buttons in light green for visibility
+                try {
+                    document.getElementById('loadStudentsBtn').classList.add('btn-success');
+                    document.getElementById('submitMarksBtn').classList.add('btn-success');
+                } catch (e) {}
     } else {
                 studentMarksSection.innerHTML = '<p>No students found for this subject in this class.</p>';
                 document.getElementById('submitMarksBtn').disabled = true;
+                try {
+                    document.getElementById('loadStudentsBtn').classList.remove('btn-success');
+                    document.getElementById('submitMarksBtn').classList.remove('btn-success');
+                } catch (e) {}
             }
         })
         .catch(error => {
             console.error('Error:', error);
             studentMarksSection.innerHTML = '<p>Error loading students. Please try again.</p>';
             document.getElementById('submitMarksBtn').disabled = true;
+            try {
+                document.getElementById('loadStudentsBtn').classList.remove('btn-success');
+                document.getElementById('submitMarksBtn').classList.remove('btn-success');
+            } catch (e) {}
         });
 }
 
@@ -3572,6 +3729,12 @@ function updateTopicCount(id) {
     document.getElementById('viewResultsBtn').disabled = true;
     document.getElementById('loadProgressBtn').disabled = true;
 
+    // Remove success highlighting on action buttons when resetting
+    try {
+        document.getElementById('loadStudentsBtn').classList.remove('btn-success');
+        document.getElementById('submitMarksBtn').classList.remove('btn-success');
+    } catch (e) {}
+
     // Reset to first tab in upload section
     const tabButtons = document.querySelectorAll('.tab-button');
     const tabContents = document.querySelectorAll('.tab-content');
@@ -3719,7 +3882,12 @@ function checkViewResultsForm() {
         document.getElementById('view_exam_type').value && 
         document.getElementById('view_category').value;
 
-    document.getElementById('viewResultsBtn').disabled = !allFieldsFilled;
+    var vrb = document.getElementById('viewResultsBtn');
+    vrb.disabled = !allFieldsFilled;
+    try {
+        if (allFieldsFilled) vrb.classList.add('btn-success');
+        else vrb.classList.remove('btn-success');
+    } catch (e) {}
 }
 
 function updateNormalizedScore(input, teacherMaxScore, adminMaxScore) {
@@ -3977,6 +4145,33 @@ document.getElementById('try-another-class-btn').addEventListener('click', funct
     document.getElementById('progress_class_id').focus();
     document.getElementById('no-progress-data').style.display = 'none';
 });
+    </script>
+    <script>
+    (function() {
+        // Unread message badge polling for Chat button only
+        function updateUnreadBadges(){
+            fetch('ajax/get_unread_count.php', { cache: 'no-store' })
+                .then(function(r){ return r.json(); })
+                .then(function(d){
+                    var n = 0;
+                    if (d) {
+                        if (typeof d.unread !== 'undefined') { n = parseInt(d.unread, 10) || 0; }
+                        else if (typeof d.unread_count !== 'undefined') { n = parseInt(d.unread_count, 10) || 0; }
+                    }
+                    var badge = document.getElementById('chatUnreadBadge');
+                    if (!badge) return;
+                    if (n > 0) {
+                        badge.style.display = 'inline-block';
+                        badge.textContent = n > 99 ? '99+' : String(n);
+                    } else {
+                        badge.style.display = 'none';
+                    }
+                })
+                .catch(function(){ /* silent */ });
+        }
+        updateUnreadBadges();
+        setInterval(updateUnreadBadges, 7000);
+    })();
     </script>
 </body>
 </html>
